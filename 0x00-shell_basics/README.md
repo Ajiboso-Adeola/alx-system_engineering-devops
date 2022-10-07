@@ -1,1 +1,1 @@
-display current directory contents, including hidden fikes
+display current directory contents
