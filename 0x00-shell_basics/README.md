@@ -1,1 +1,1 @@
-the contents list of your directory is
+Write a script that changes the working directory to the users home directory.
