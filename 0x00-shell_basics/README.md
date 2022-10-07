@@ -1,1 +1,1 @@
-a script that lists all files in the current directory and the parent of the working directory and the /boot directory in long format
+ a symbolic link in the current working dirrctory
