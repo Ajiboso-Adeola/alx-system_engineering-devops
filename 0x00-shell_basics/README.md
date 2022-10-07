@@ -1,1 +1,1 @@
-current directory contains long list
+display current directory contents, including hidden fikes
